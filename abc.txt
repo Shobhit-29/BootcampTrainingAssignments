@@ -1,4 +1,0 @@
-hello world
-new file
-hey
-new line
